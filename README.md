@@ -34,7 +34,7 @@ All wallpapers use the official v3 palette:
 - [Aivyx Hub](https://github.com/AivyxDev/aivyx-hub) — MCP server & template registry
 - [aivyx-hub.com](https://aivyx-hub.com) — Browse the Hub
 - [aivyx-creator.com](https://aivyx-creator.com) — Build agents
-- [aivyx.com](https://aivyx.com) — Main website
+- [aivyx-studio.com](https://aivyx-studio.com) — Main website
 
 ## License
 
